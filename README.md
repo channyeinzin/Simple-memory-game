@@ -4,7 +4,7 @@
 
 Submitted by: **Chan Nyein Zin**
 
-Time spent: **10** hours spent in total
+Time spent: **15** hours spent in total
 
 Link to project: 
 
