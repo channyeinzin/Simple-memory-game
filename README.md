@@ -6,7 +6,7 @@ Submitted by: **Chan Nyein Zin**
 
 Time spent: **15** hours spent in total
 
-Link to project: (intset, https://simplememorygame.glitch.me/)
+Link to project: https://simplememorygame.glitch.me/
 
 ## Required Functionality
 
