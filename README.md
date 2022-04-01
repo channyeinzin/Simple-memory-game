@@ -4,9 +4,9 @@
 
 Submitted by: **Chan Nyein Zin**
 
-Time spent: **10** hours spent in total
+Time spent: **15** hours spent in total
 
-Link to project: 
+Link to project: (intset, https://simplememorygame.glitch.me/)
 
 ## Required Functionality
 
@@ -22,9 +22,9 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
-* [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
-* [ ] More than 4 functional game buttons
+* [x] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
+* [x] Buttons use a pitch (frequency) other than the ones in the tutorial
+* [x] More than 4 functional game buttons
 * [ ] Playback speeds up on each turn
 * [ ] Computer picks a different pattern each time the game is played
 * [ ] Player only loses after 3 mistakes (instead of on the first mistake)
@@ -40,19 +40,27 @@ The following **additional** features are implemented:
 
 Here is a walkthrough of user implement user narratives: !
 
-![](https://i.imgur.com/JLn9ft4.gif)
+![](https://i.imgur.com/jEbxqp2.gif)
 
 
 ## Reflection Questions
 
-I follow the instruction of SITE Program Pre-work from CodePath course
 
-It is a beneficial game for beginners of HTML, CSS, and JavaScript. If we do not have any idea of building a small project, we should definitely try this project. The most challenging part of this program is adding sound to the game buttons, and we need to do math and physic slightly because we have to play a tone for what amount of time specifically. In this programming, I just follow the step that the code path provided to me, and I read carefully and follow the explanation from the code path. Then the next challenging part is recalling the functions within the three languages because they need to connect in this game. It was painless and smooth for me because I followed the steps of the explanation from the code path. Another challenging part was creating the gif because I had never done that before, and it took me more than an hour because I had to resize my video resolution within 10MB. I have to be patient and record multiple times. 
+1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
-Web development is beneficial for us because we always ask google, safari, firefox, and any other search engine. And we can also build a game by using HTML, CSS, and Javascript. While making this game, I noticed the most important reason the frameworks exist. It can help to create a project faster and save time. But why do we use the framework, and can we do without the framework? 
+    I followed the SITE Program Pre-work instruction from the CodePath course, and I did not look at any outside sources or a person's help. 
 
-If I have more time, I will add more functions of adding sound to the game buttons. And I will switch the playing a sequence of clues depending on the game level. I will also put the game mode such as easy, medium, and complex. For the easy level: I will put the most effortless playing sequence; for medium, I will build a few complex functions; for the hard, I will put the most challenging functions. I also want to make the game for two or more human players, and it will be more fun.  
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? 
 
+    It is a beneficial game for HTML, CSS, and JavaScript beginners. However, if we do not have any idea of building a small project, we should try this project. The most challenging part of this program is making a timer object and would have it run a function that counts down a specific timer variable. However, I followed the step that the code path provided to me, and I read carefully and followed the code path's explanation. Then the next challenging part is recalling the functions within the three languages because they need to connect in this game. Another challenging part was creating the gif because I had never done that before, and it took me more than an hour because I had to resize my video time limit and resolution within 10MB. I had to be patient and record multiple times to get the perfect narrative, and I followed the explanation steps from the code path in detail.
+
+3. What questions about web development do you have after completing your submission? 
+
+    The more I work on this, the more interested in Web Development. Interestingly, we can do better by combining front-end languages and back-end programming. Moreover, while I was using HTML/CSS, it seemed much easier to create buttons, style the page with different colors and fonts. This project has made me realize that I can build a website with some knowledge of data structures and make it a decent website. However, I wonder if we have a good foundation of data structures can we make an excellent and complex website? For me, java was probably the primary language for a time, but I realized that I am also interested in JavaScript after working on this project.
+
+4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. 
+
+    If I have more time, I will add more functions of adding sound to the game buttons. And I will switch the playing a sequence of clues depending on the game level. I will also put the game mode such as easy, medium, and complex. For the easy level: I will put the most effortless playing sequence; for medium, I will build a few complex functions; for the hard, I will put the most challenging functions. I also want to make the game for two or more human players, and it will be more fun. 
 
 
 ## Interview Recording URL Link
