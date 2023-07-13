@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 
 Here is a walkthrough of user implement user narratives: !
 
-![](https://i.imgur.com/jEbxqp2.gif)
+![alt text](https://i.imgur.com/jEbxqp2.gif)
 
 
 ## Reflection Questions
