@@ -1,6 +1,3 @@
-/* If you're feeling fancy you can add interactivity 
-    to your site with Javascript */
-
 
 //global constant
 const clueHoldTime = 1000; //how long to hold each clue's light/sound
