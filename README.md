@@ -43,15 +43,6 @@ Here is a walkthrough of user implement user narratives: !
 ![alt text](https://i.imgur.com/jEbxqp2.gif)
 
 
-
-
-
-
-## Interview Recording URL Link
-
-[My 5-minute Interview Recording](https://drive.google.com/file/d/1nNt1_ZOwDFpHe38qOv9EumBXrAOEukJY/view?usp=sharing)
-
-
 ## License
 
     Copyright [Chan Nyein Zin]
